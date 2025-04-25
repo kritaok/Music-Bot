@@ -21,7 +21,7 @@ module.exports = {
       password: "kritaok",
       host: "lavalink-server-zlhu.onrender.com",
       port:  8080,
-      secure: false
+      secure: true
     }
   ]
 }
