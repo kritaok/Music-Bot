@@ -19,9 +19,9 @@ module.exports = {
      {
       name: "AjieDev-V3",
       password: "https://dsc.gg/ajidevserver",
-      host: "lava-v3.ajieblogs.eu.org",
-      port:  443,
-      secure: true
+      host: "lava-v4.ajieblogs.eu.org",
+      port:  80,
+      secure: false
     }
   ]
 }
